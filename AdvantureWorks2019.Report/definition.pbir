@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../AdvantureWorks2019.Dataset"
+    },
+    "byConnection": null
+  }
+}

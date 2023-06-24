@@ -1,0 +1,181 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 545.99993896484375,
+        "y": 330.00006103515625
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 459.1,
+            "y": 305.5
+          },
+          "nodeIndex": "Dim_Customer",
+          "size": {
+            "height": 495,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 978.9,
+            "y": 743.6
+          },
+          "nodeIndex": "Dim_Product",
+          "nodeLineageTag": "057ba30d-40c9-411a-a4e7-a38fabb3341f",
+          "size": {
+            "height": 397.78861410719696,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1245.8,
+            "y": 337.7
+          },
+          "nodeIndex": "Dim_ProductSubcategory",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1661.7,
+            "y": 569
+          },
+          "nodeIndex": "Dim_ProductCategory",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 672.7,
+            "y": 787.4
+          },
+          "nodeIndex": "Fact_InternetSales",
+          "size": {
+            "height": 732.07547169811323,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 256.8,
+            "y": 1262.1
+          },
+          "nodeIndex": "Dim_Promotion",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 415.9,
+            "y": 930.3
+          },
+          "nodeIndex": "Dim_SalesTerritory",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1013.14786433014,
+            "y": 1201.83705109512
+          },
+          "nodeIndex": "Fact_InternetSalesReason",
+          "size": {
+            "height": 216.15094339622647,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1394.9,
+            "y": 1187.7
+          },
+          "nodeIndex": "Fact_ProductInventory",
+          "size": {
+            "height": 332.44903394069865,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 890.2
+          },
+          "nodeIndex": "Dim_Geography",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 43.2,
+            "y": 0
+          },
+          "nodeIndex": "Fact_SurveyResponse",
+          "size": {
+            "height": 305.75,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2071.2,
+            "y": 0
+          },
+          "nodeIndex": "Dim_Date",
+          "nodeLineageTag": "ade423df-b8fe-4bf2-b3d3-bace229ab170",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2480.6,
+            "y": 62
+          },
+          "nodeIndex": "Dim_SalesReason",
+          "nodeLineageTag": "56218d58-b70e-452f-8ade-fb8545f56f07",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 98.170938279955266,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
